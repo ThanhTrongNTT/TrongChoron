@@ -14,7 +14,7 @@
 
 </div>
 <div id="numView" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnt201&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=TrongChoron&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="banner" align="center">
