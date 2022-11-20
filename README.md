@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreefrontend.com%2F403-forbidden-html-templates%2F&psig=AOvVaw3CTk5LHFFNWWTh0DPoitUx&ust=1669039787060000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi66O_3vPsCFQAAAAAdAAAAABAD" width="120"/>
+  <img src="https://media2.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif?cid=ecf05e47nzuh2bhq4rvpj79sl6f6rzu7xa73ay6rsa3e5fcj&rid=giphy.gif&ct=s" width="120"/>
 </div>
 <div id="badges" align="center">
   <a href="https://fb.com/trong.thethoi">
@@ -18,7 +18,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2lNGvEHdxkUygJA60vyPmu&ust=1669037863065000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICqjtrwvPsCFQAAAAAdAAAAABAg" width="80%"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80%"/>
 </div>
 
 ---
